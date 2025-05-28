@@ -1,0 +1,10 @@
+{
+    "rfq_id": "RFQ-2025-001",
+    "items": [
+      {"item": "Laptop", "quantity": 10},
+      {"item": "Mouse", "quantity": 25}
+    ],
+    "due_date": "2025-06-10",
+    "customer": "Acme Corp"
+  }
+  
