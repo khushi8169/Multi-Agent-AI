@@ -45,7 +45,7 @@ multi_agent_ai/
 ### 1. Clone & create a virtualenv  *(recommended)*
 
 ```bash
-git clone https://github.com/<your‑handle>/multi_agent_ai.git
+git clone https://github.com/khushi8169/multi_agent_ai.git
 cd multi_agent_ai
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
